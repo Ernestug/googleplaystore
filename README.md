@@ -10,17 +10,25 @@ The dataset used for this analysis was gathered from [Kaggle](https://www.kaggle
 
 Cards were used to show some metrics such as total number of apps used for the analysis, the number of app categories considered, as well as the maximum, average, and mimimum price of paid apps repsectively.
 
+![](https://github.com/Ernestug/googleplaystore/blob/main/Cards.jpg)
+
 ## Category, Type, and Content Rating
 
 Visualizations were done to show the distribution of the mobile apps by type (paid or free), category, and the content rating of the apps. For the category visual, the top 10 categories of mobile apps were visualized by the number of mobile apps in these categories.
+
+![](https://github.com/Ernestug/googleplaystore/blob/main/Categories%2C%20Type%2C%20Content%20Rating.jpg)
 
 ## Top 10 Apps by Reviews
 
 The top 10 mobile apps by the number of reviews received were also visualized in this analysis. Popular mobile apps like Facebook, Instagram, and WhatsApp took top spots in this chart.
 
+![](https://github.com/Ernestug/googleplaystore/blob/main/Number%20of%20reviews.jpg)
+
 ## Mobile Apps by Average User Rating
 
 Insights on the user rating on the various mobile apps were also visualized to show how many mobile apps have ratings, ranging from 1 to 5. From the dataset, various values of ratings were recorded from 0 to 5. To properly analyze these ratings, the "SWITCH FUNCTION" was used in creating a new column using a DAX that grouped these rating values into 0-1, 1-2, 2-3, 3-4, and 4-5. From this, the count of mobile apps under these respective groups of user ratings were visualized as shown below:
+
+![](https://github.com/Ernestug/googleplaystore/blob/main/Avg%20User%20Rating.jpg)
 
 ## Remarks
 
